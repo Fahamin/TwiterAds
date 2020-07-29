@@ -1,0 +1,9 @@
+1) Update your Gradle file with correct libraries. (Refer module level gradle.build file for details).
+
+2) in case of Banner Ads, update your layout Banner placement.(refer activity_main file for details.)
+
+3) Initialize the MoPub SDK (refer to MoPubAdsHandlerBannerNdInterstitial & MoPubAdsHandlerRewardVideo file for details on how to do it.)
+
+4) load Ad (refer to MoPubAdsHandlerBannerNdInterstitial & MoPubAdsHandlerRewardVideo file for details on how to do it.)
+
+5) Display interstitial and Reward videos on Demand.
